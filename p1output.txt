@@ -1,1 +1,5 @@
-
+./a.out
+enter the base and height of the triangle :
+50
+25
+the area of the triangle with base 50.000000 and height 25.000000 is 625.000000 
