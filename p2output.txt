@@ -1,1 +1,21 @@
+output 1:
+./a.out
+enter the side of the triangle :
+1
+enter the side of the triangle :
+2
+enter the side of the triangle :
+3
+the triangle is scalene 
+
+
+output 2:
+./a.out
+enter the side of the triangle :
+2
+enter the side of the triangle :
+3
+enter the side of the triangle :
+2
+the triangle is not scalene
 
