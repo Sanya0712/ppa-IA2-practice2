@@ -1,1 +1,5 @@
-
+./a.out
+enter the base,altitude
+2
+3
+the area of the triangle with base:2.000000 and altitude:3.000000 is 3.000000
