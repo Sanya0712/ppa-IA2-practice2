@@ -1,1 +1,10 @@
-
+./a.out
+Enter the length of the array:
+5
+Enter all values of the array:
+1
+2
+7
+8
+12
+the sum of composite numbers in the gives array is : 20

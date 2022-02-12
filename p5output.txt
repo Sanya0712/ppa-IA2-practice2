@@ -1,4 +1,6 @@
 ./a.out
-Enter any two numbers to find HCF: 12
-24
-HCF of 12 and 24 = 12
+Enter a number:
+12
+Enter a number:
+16
+The gcd of 12 and 16 is 4
