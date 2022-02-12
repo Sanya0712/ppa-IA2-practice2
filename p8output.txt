@@ -1,1 +1,11 @@
+ ./a.out
+Enter the number of triangles:
+2
+Enter the base, altitude of a triangle:
+2 3
+Enter the base, altitude of a triangle:
+4 6
+2.000000, 3.000000 and
+ 4.000000, 6.000000
+the triangle with base = 2.000000 and altitude = 3.000000 having area = 3.000000 is the smallest
 
